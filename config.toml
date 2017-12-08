@@ -43,6 +43,11 @@ metaDataFormat = "toml"
     weight = 11
 
 [[menu.main]]
+    name = "Posts"
+    url = "/post/"
+    weight = 12
+    
+[[menu.main]]
     name  = "Contact"
     url   = "/contact/"
     weight = 20

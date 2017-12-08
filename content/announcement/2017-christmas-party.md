@@ -1,8 +1,8 @@
 +++
 title  = "2017 Christmas Party"
 date = 2017-12-06T22:45:20-08:00
-tags = ["christmas-party", "cuelines"]
-draft = "false" #debug
+tags = ["christmas party", "December 2017 Cuelines"]
+draft = "false"
 type = "announcement"
 banner = "images/letsparty.jpg"
 +++
