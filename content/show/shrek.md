@@ -1,7 +1,7 @@
 +++
 title = "Shrek"
 date = "2017-12-06T22:42:05-08:00"
-tags = ["audition notice", "December 2017 Cuelines"]
+tags = ["audition notice", "December 2017 Cuelines","show"]
 draft = "false"
 type = "show"
 banner = "banners/shrek-flier-banner.jpg"
