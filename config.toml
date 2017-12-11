@@ -46,7 +46,7 @@ metaDataFormat = "toml"
     name = "Posts"
     url = "/post/"
     weight = 12
-    
+
 [[menu.main]]
     name  = "Contact"
     url   = "/contact/"
@@ -58,7 +58,7 @@ metaDataFormat = "toml"
 # created automatically.
     # instagram       = "nikimonikado"
     # youtube         = "nikimonikado"
-    facebook        = "https://www.facebook.com/ParkPlayersDetroit/"
+    facebook        = "ParkPlayersDetroit"
     # twitter         = "nikimonikado"
 
 # Enable and disable widgets for the right sidebar
