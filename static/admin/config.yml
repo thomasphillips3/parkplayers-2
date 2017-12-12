@@ -6,8 +6,12 @@ media_folder: "static/images"
 
 collections:
   - name: "announcement"
-    label: "Announcements"
+    label: "Announcement"
     folder: "content/announcement"
+    create: true
+  - name: "show"
+    label: "Show"
+    folder: "content/show"
     create: true
 
 fields:
