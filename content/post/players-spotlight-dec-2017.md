@@ -7,7 +7,7 @@ type = ""
 banner = "banners/spotlight-banner.jpg"
 +++
 
-We caught up with two stars of our recent production of Sister Act to see what they've been up to! Carman and Rose are two awesome artists making names for themselves in their respective careers! Check them out below.
+We caught up with two stars of our recent production of *Sister Act* to see what they've been up to! Carman and Rose are two awesome artists making names for themselves in their respective careers! Check them out below.
 
 ## Carman Cooper
 ![Carman Cooper](/images/carman.jpg)
