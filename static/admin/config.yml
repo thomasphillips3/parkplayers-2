@@ -13,6 +13,9 @@ collections:
     label: "Show"
     folder: "content/show"
     create: true
-
+  - name: "post"
+    label: "Post"
+    folder: "content/post"
+    create: true
 fields:
   - {label: "Title", name: "title"}
