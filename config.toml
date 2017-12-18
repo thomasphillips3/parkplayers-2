@@ -23,6 +23,9 @@ metaDataFormat = "toml"
     custom_css = ["css"]
     custom_js  = ["js"]
 
+[[blackfriday]]
+    hrefTargetBlank = true
+
 [[menu.main]]
     name  = "Shows"
     url   = "/show/"
