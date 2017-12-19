@@ -1,24 +1,32 @@
 backend:
-  name: git-gateway
+  name: github
   branch: master
 
 media_folder: "static/images"
+
+publish_mode: editorial_workflow
 
 collections:
   - name: "announcement"
     label: "Announcement"
     folder: "content/announcement"
+    slug: "{{name}}-{{year}}-{{month}}-{{day}}-{{slug}}"
     create: true
   - name: "show"
     label: "Show"
     folder: "content/show"
+    slug: "{{name}}-{{year}}-{{month}}-{{day}}-{{slug}}"
     create: true
   - name: "post"
     label: "Post"
     folder: "content/post"
+    slug: "{{name}}-{{year}}-{{month}}-{{day}}-{{slug}}"
     create: true
+
 fields:
+  - { label: "Layout", name: "layout", widget: "hidden", default: "blog" }
   - { label: "Title", name: "title" }
   - { label: "Publish Date", name: "date", widget: "datetime" }
+  - { label: "Featured Image", name: "thumbnail", widget: "image" }
   - { label: "Banner", name: "banner", widget: "image" }
   - { label: "Body", name: "body", widget: "markdown" }
