@@ -13,7 +13,7 @@ metaDataFormat = "toml"
     site_description = "Park Players Detroit"
     copyright  = "Copyright"
     avatar = "css/images/avatar.png"
-    logo = "/images/logo.png"
+    logo = "/images/park-players-logo.png"
     disable_mathjax = true # set to true to disable MathJax
 
     # Format dates with Go's time formatting
@@ -22,6 +22,9 @@ metaDataFormat = "toml"
     # Add custom assets with their paths relative to the static folder
     custom_css = ["css"]
     custom_js  = ["js"]
+
+[[blackfriday]]
+    hrefTargetBlank = true
 
 [[menu.main]]
     name  = "Shows"

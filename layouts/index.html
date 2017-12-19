@@ -1,12 +1,16 @@
 <!DOCTYPE html>
 <html lang="en-US">
 {{ partial "header" . }}
+<head>
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+</head>
 
 <body class="home blog logged-in admin-bar no-customize-support custom-background ">
   <div class="wrapper">
     <header id="branding">
       {{ partial "head" . }}
       {{ partial "nav" . }}
+      {{ partial "vendini/become_a_member" . }}
       {{ partial "slider" . }}
     </header>
     <div id="main" class="container clearfix">
@@ -25,6 +29,18 @@
   </div>
   <!-- #main -->
   {{ partial "footer.html" . }}
+
+  <script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
 </body>
 
 </html>
