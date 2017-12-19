@@ -1,11 +1,9 @@
-+++
-title = "Urinetown"
-date = "2017-12-10T14:51:47-08:00"
-tags = [""]
-draft = "false" #debug
-type = "show"
-banner = "banners/urinetown-banner.jpg"
-+++
+---
+title: Urinetown
+date: 11/05/2012 12:51 PM
+thumbnail: /static/images/urinetown-cast-photo.jpg
+banner: banners/urinetown-banner.jpg
+---
 
 <!--Add details about the show below.-->
 *Urinetown - The Musical* entertained audiences with its lively satire and comical musical numbers. With a great cast of old and new members, and in the capable hands of talented director Sarah Hedeen and music director Rich Alder, the quirky subject matter of this tongue-in-cheek play sprang to life, delighting audiences with sarcastic anti-musical commentary.
