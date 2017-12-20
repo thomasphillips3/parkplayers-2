@@ -1,6 +1,6 @@
 ---
 title: Urinetown
-date: 11/05/2012 12:51 PM
+date: "2012/05/11T21:12:11-08:00"
 thumbnail: /static/images/urinetown-cast-photo.jpg
 banner: banners/urinetown-banner.jpg
 ---
