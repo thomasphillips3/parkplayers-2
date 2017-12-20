@@ -1,11 +1,8 @@
-+++
-title = "Twilight: Los Angeles, 1992"
-date = "2017-12-08T21:12:11-08:00"
-tags = ["show"]
-draft = "false"
-type = "show"
-banner = "banners/twilight-banner.jpg"
-+++
+---
+title: 'Twilight: Los Angeles, 1992'
+date: 2015-11-02T21:12:11-08:00
+banner: banners/twilight-banner.jpg
+---
 
 <!--Add details about the show below.-->
 Acclaimed as "an American masterpiece" (Newsweek), *Twilight: Los Angeles, 1992* is a stunning work of "documentary theatre" in which Anna Deavere Smith uses the verbatim words of people who experiences the Los Angeles riots to expose the devastating human impact of that event.
