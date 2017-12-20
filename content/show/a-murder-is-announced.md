@@ -1,6 +1,6 @@
 ---
 title: A Murder Is Announced
-date: 2013-10-27T15:07:33-07:00
+date: 2013-10-27T22:07:33.000Z
 banner: banners/murder-cast-banner.jpg
 ---
 <!--Add details about the show below.-->
