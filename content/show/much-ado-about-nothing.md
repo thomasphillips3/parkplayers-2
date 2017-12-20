@@ -1,11 +1,8 @@
-+++
-title = "Much Ado About Nothing"
-date = "2017-12-10T14:57:21-08:00"
-tags = [""]
-draft = "false" #debug
-type = "show"
-banner = "banners/much-ado-stylized-flier.png"
-+++
+---
+title: Much Ado About Nothing
+date: 2012-11-03T14:57:21-07:00
+banner: banners/much-ado-stylized-flier.png
+---
 
 <!--Add details about the show below.-->
 Shakespeare's *Much Ado About Nothing* is one of the most beloved and accessible of all his enduring comedies. Our version is a modern, relatable adaptation, with more approachable language, suitable for all ages.
