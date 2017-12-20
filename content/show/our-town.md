@@ -1,11 +1,8 @@
-+++
-title = "Our Town"
-date = "2017-12-10T14:45:50-08:00"
-tags = [""]
-draft = "false" #debug
-type = "show"
-banner = "banners/our-town-cast-banner.jpg"
-+++
+---
+title: Our Town
+date: 2011-09-30T14:45:50-07:00
+banner: banners/our-town-cast-banner.jpg
+---
 
 <!--Add details about the show below.-->
 ![Stage Manager and townspeople](/images/our-town-actors.jpg)
