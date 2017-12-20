@@ -1,16 +1,13 @@
-+++
-title = "A Murder Is Announced"
-date = "2017-12-10T15:07:33-08:00"
-tags = [""]
-draft = "false" #debug
-type = "show"
-banner = "banners/murder-cast-banner.jpg"
-+++
-
+---
+title: A Murder Is Announced
+date: 2013-10-27T22:07:33.000Z
+banner: banners/murder-cast-banner.jpg
+---
 <!--Add details about the show below.-->
+
 ![A Murder is Announced flier](/images/murder-flier.jpg)
 
-What better way to enjoy the Halloween season than with a murder mystery? The Park Players are proud to invite you for a night of suspense and surprises as they perform Agatha Christie's *A Murder is Announced*, adapted for the stage by Leslie Darbon.
+What better way to enjoy the Halloween season than with a murder mystery? The Park Players are proud to invite you for a night of suspense and surprises as they perform Agatha Christie's _A Murder is Announced_, adapted for the stage by Leslie Darbon.
 
 ![Cast at rehearsal](/images/murder-show-1.jpg)
 ![](/images/murder-show-2.jpg)
@@ -23,10 +20,11 @@ The cast and crew have been working hard to perfect this intriguing tale of susp
 
 Showtimes:
 
-- Friday, November 15 - 8 PM Performance $17
-- Saturday, November 16 - 7 PM Wine and Cheese Performance $23
-- Sunday, November 17 - 2 PM Matinee Performance $17 (student/senior $15)
-- Friday, November 22 - 6:30 PM Dinner Theater Performance $29z
-- Saturday, November 23 - 8 PM Performance $17
--
+* Friday, November 15 - 8 PM Performance $17
+* Saturday, November 16 - 7 PM Wine and Cheese Performance $23
+* Sunday, November 17 - 2 PM Matinee Performance $17 (student/senior $15)
+* Friday, November 22 - 6:30 PM Dinner Theater Performance $29z
+* Saturday, November 23 - 8 PM Performance $17
+* 
+
 For more information or Ticket Reservations Call (313)538-2336 Email: parkplayersnrp@gmail.com
