@@ -1,11 +1,8 @@
-+++
-title = "Hairspray"
-date = "2017-12-10T14:40:33-08:00"
-tags = [""]
-draft = "false"
-type = "show"
-banner = "banners/hairspray-banner.jpg"
-+++
+---
+title: Hairspray
+date: 2011-03-07T14:40:33-08:00
+banner: banners/hairspray-banner.jpg
+---
 
 <!--Add details about the show below.-->
 ![Hairspray cast](/images/hairspray-rehearsal-cast.jpg)
