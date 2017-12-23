@@ -1,13 +1,15 @@
 +++
 title = "Players Spotlight Dec 2017"
 date = "2017-12-07T00:25:06-08:00"
-tags = ["spotlight", "December 2017 Cuelines"]
+tags = ["spotlight", "December 2017 Cuelines", "post"]
 draft = "false"
-type = ""
-banner = "banners/spotlight-banner.jpg"
+type = "post"
+banner = "banners/spotlight-banner.png"
 +++
 
 We caught up with two stars of our recent production of *Sister Act* to see what they've been up to! Carman and Rose are two awesome artists making names for themselves in their respective careers! Check them out below.
+
+<!--more-->
 
 ## Carman Cooper
 ![Carman Cooper](/images/carman.jpg)

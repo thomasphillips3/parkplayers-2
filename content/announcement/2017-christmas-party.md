@@ -1,7 +1,7 @@
 +++
 title  = "2017 Christmas Party"
-date = 2017-12-06T22:45:20-08:00
-tags = ["christmas party", "December 2017 Cuelines"]
+date = "2017-12-06T22:45:20-08:00"
+tags = ["christmas party", "December 2017 Cuelines", "cuelines", "announcement"]
 draft = "false"
 type = "announcement"
 banner = "images/letsparty.jpg"
