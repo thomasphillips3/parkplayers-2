@@ -7,13 +7,14 @@ disable_comments = "true"
 tags = ["post"]
 draft = "false"
 type = "post"
-banner = "images/151111twilightrun5680.jpg"
+banner = "banners/north-rosedale-park-banner.jpg"
 +++
 
 # Our Neighborhood
 
 From our inception through 2017, Park Players performed at the North Rosedale Park Community House, which was built in 1939. We were born in the center and the heart of the historic and lovingly maintained North Rosedale Park neighborhood (which has a very colorful history dating to the 1920s).
 
+<!--more-->
 <center>
 
 ![Historic Rosedale Park ](/images/rosedale-sign.jpg)
