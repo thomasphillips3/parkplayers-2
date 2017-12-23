@@ -46,6 +46,11 @@ metaDataFormat = "toml"
     url   = "/contact/"
     weight = 20
 
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 21
+
 [social]
     # instagram       = "nikimonikado"
     # youtube         = "nikimonikado"
