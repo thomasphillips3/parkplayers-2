@@ -16,6 +16,8 @@ Detroit, MI 48219
 
 An Official Park Players Announcement...
 
+<!--more-->
+
 # Casting Call
 
 </center>
