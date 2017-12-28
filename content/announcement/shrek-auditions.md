@@ -1,19 +1,21 @@
----
-thumbnail: /images/shrek-players-flier.jpeg
-layout: blog
-title: Shrek Auditions
-date: 2017-12-27T22:33:24.041Z
-banner: /images/shrek-auditions.png
----
++++
+title = "Shrek Auditions"
+date = "2017-12-27T22:33:24.041Z"
+tags = ["announcement"]
+draft = "false"
+banner = "images/shrek-auditions.png"
++++
+
 <center>
 
-![null](/images/park-players-logo-icon.png)
+![Park Players Logo](/images/park-players-logo-icon.png)
 
-17358 Lahser Road\
-Detroit, MI 48219\
-An Official Park Players Announcement...  
+17358 Lahser Road
+Detroit, MI 48219
 
-- - -
+An Official Park Players Announcement...
+
+***
 
 # Casting Call
 
@@ -27,9 +29,9 @@ An Official Park Players Announcement...
 
 </center>
 
-The Park Players will present _Shrek The Musical_, a Tony Award-winning fairy tale adventure, featuring all new songs from Jeanine Tesori (Thoroughly Modern Millie; Caroline, or Change) and a sidesplitting book by David Lindsay-Abaire. Our show will be directed by Barbara (Barbie) Weisserman, music direction by Elizabeth Fisher. 
+The Park Players will present _Shrek The Musical_, a Tony Award-winning fairy tale adventure, featuring all new songs from Jeanine Tesori (Thoroughly Modern Millie; Caroline, or Change) and a sidesplitting book by David Lindsay-Abaire. Our show will be directed by Barbara (Barbie) Weisserman, music direction by Elizabeth Fisher.
 
-- - -
+***
 
 ## Auditions
 
@@ -49,19 +51,19 @@ We welcome all ethnicities and all ages 16 and over.
 
  Please come prepared with sheet music (preferred) to sing. Everyone should be prepared to move and dancers be prepared to dance with appropriate clothing and footwear.
 
-- - -
+***
 
 ## Rehearsal schedule
 
 * Tuesday evenings
-* Thursday evenings 
+* Thursday evenings
 * Sunday afternoons
 
 Please bring a listing of any known rehearsal conflicts.
 
-- - -
+***
 
-Performance Weekends: 
+Performance Weekends:
 
 * April 27-29, 2018
 * May 4-6, 2018
