@@ -12,7 +12,9 @@ banner: /images/null.png
 17358 Lahser Road\
 Detroit, MI 48219\
 An Official Park Players Announcement...  
-***
+
+- - -
+
 # Casting Call
 
 </center>
@@ -26,22 +28,28 @@ An Official Park Players Announcement...
 </center>
 
 The Park Players will present _Shrek The Musical_, a Tony Award-winning fairy tale adventure, featuring all new songs from Jeanine Tesori (Thoroughly Modern Millie; Caroline, or Change) and a sidesplitting book by David Lindsay-Abaire. Our show will be directed by Barbara (Barbie) Weisserman, music direction by Elizabeth Fisher. 
-***
 
-## AUDITIONS
+- - -
 
-Sunday, January 14 at 1:00 - 7:00 p.m.  (please be prompt)
+## Auditions
+
+* **When**: Sunday, January 14 at 1:00 - 7:00 p.m.  (please be prompt)
+* **Where**: Redford Theatre \
+  17360 Lahser Road\
+  Detroit, MI 48219
 
 **Principal callbacks**
 
-Wednesday, January 17 at 7:00 -10:00 p.m.
+* **When: **Wednesday, January 17 at 7:00 -10:00 p.m.
+* **Where**: Redford Theatre\
+  17360 Lahser Road\
+  Detroit, MI 48219
 
-Redford Theatre \
-17360 Lahser Road\
-Detroit, MI 48219
+We welcome all ethnicities and all ages 16 and over.
 
-We welcome all ethnicities and all ages 16 and over. Please come prepared with sheet music (preferred) to sing. Everyone should be prepared to move and dancers be prepared to dance with appropriate clothing and footwear.
-***
+ Please come prepared with sheet music (preferred) to sing. Everyone should be prepared to move and dancers be prepared to dance with appropriate clothing and footwear.
+
+- - -
 
 ## Rehearsal schedule
 
@@ -49,8 +57,9 @@ We welcome all ethnicities and all ages 16 and over. Please come prepared with
 * Thursday evenings 
 * Sunday afternoons
 
-Please bring a listing of any known rehearsal conflicts.
-***
+Please bring a listing of any known rehearsal conflicts.
+
+- - -
 
 Performance Weekends: 
 
