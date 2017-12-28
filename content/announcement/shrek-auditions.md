@@ -6,16 +6,16 @@ draft = "false"
 banner = "images/shrek-auditions.png"
 +++
 
-<center>
-
+An Official Park Players Announcement...
 <!--more-->
+
+<center>
 
 ![Park Players Logo](/images/park-players-logo-icon.png)
 
 17358 Lahser Road
 Detroit, MI 48219
 
-An Official Park Players Announcement...
 
 ***
 
