@@ -8,6 +8,8 @@ banner = "images/shrek-auditions.png"
 
 <center>
 
+<!--more-->
+
 ![Park Players Logo](/images/park-players-logo-icon.png)
 
 17358 Lahser Road
