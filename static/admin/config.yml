@@ -13,10 +13,10 @@ collections:
     folder: "content/announcement"
     create: true
     fields:
-      - { label: "Featured Image", name: "thumbnail", widget: "image" }
       - { label: "Layout", name: "layout", widget: "hidden", default: "blog" }
       - { label: "Title", name: "title" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Tags", name: "tags", widget: "string" }
       - { label: "Banner", name: "banner", widget: "image" }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "show"
@@ -24,10 +24,10 @@ collections:
     folder: "content/show"
     create: true
     fields:
-      - { label: "Featured Image", name: "thumbnail", widget: "image" }
       - { label: "Layout", name: "layout", widget: "hidden", default: "blog" }
       - { label: "Title", name: "title" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Tags", name: "tags", widget: "string" }
       - { label: "Banner", name: "banner", widget: "image" }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "post"
@@ -35,9 +35,9 @@ collections:
     folder: "content/post"
     create: true
     fields:
-      - { label: "Featured Image", name: "thumbnail", widget: "image" }
       - { label: "Layout", name: "layout", widget: "hidden", default: "blog" }
       - { label: "Title", name: "title" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Tags", name: "tags", widget: "string" }
       - { label: "Banner", name: "banner", widget: "image" }
       - { label: "Body", name: "body", widget: "markdown" }
