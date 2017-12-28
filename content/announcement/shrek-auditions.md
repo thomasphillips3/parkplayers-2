@@ -7,16 +7,16 @@ banner: images/shrek-auditions.png
 ---
 <center>
 
-![Park Players Logo](/images/park-players-logo-icon.png)
+An Official Park Players Announcement...  
 
-17358 Lahser Road
+![Park Players Shrek logo](/images/players-shrek.png)
+
+<!--more-->
+
+17358 Lahser Road\
 Detroit, MI 48219
 
 - - -
-
-An Official Park Players Announcement...
-
-<!--more-->
 
 # Casting Call
 
