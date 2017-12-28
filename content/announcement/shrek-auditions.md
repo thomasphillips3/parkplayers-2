@@ -62,7 +62,7 @@ Please bring a listing of any known rehearsal conflicts.
 
 - - -
 
-Performance Weekends:
+## Performance Weekends
 
 * April 27-29, 2018
 * May 4-6, 2018
