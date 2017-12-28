@@ -1,5 +1,4 @@
 ---
-layout: blog
 title: Test
 date: 2017-12-28T05:03:44.553Z
 tags:
