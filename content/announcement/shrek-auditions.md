@@ -2,16 +2,16 @@
 title: Shrek Auditions
 date: '2017-12-27T22:33:24.041Z'
 tags:
-  - announcement
+  - post
 banner: /images/shrek-auditions.png
 ---
 <center>
 
 An Official Park Players Announcement...  
 
-![Park Players Shrek logo](/images/players-shrek.png)
-
 <!--more-->
+
+![Park Players Shrek logo](/images/players-shrek.png)
 
 17358 Lahser Road\
 Detroit, MI 48219
