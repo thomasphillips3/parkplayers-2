@@ -4,8 +4,7 @@ date: '2017-12-27T22:33:24.041Z'
 banner: /images/shrek-auditions.png
 tags:
   - post
-type:
-  - post
+type: post
 ---
 <center>
 
