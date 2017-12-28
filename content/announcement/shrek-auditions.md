@@ -3,7 +3,7 @@ thumbnail: /images/shrek-players-flier.jpeg
 layout: blog
 title: Shrek Auditions!
 date: 2017-12-27T22:33:24.041Z
-banner: /images/null.png
+banner: /images/shrek-auditions.png
 ---
 <center>
 
