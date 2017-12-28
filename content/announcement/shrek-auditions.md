@@ -44,7 +44,7 @@ The Park Players will present _Shrek The Musical_, a Tony Award-winning fairy ta
 
 **Principal callbacks**
 
-* **When: **Wednesday, January 17 at 7:00 -10:00 p.m.
+* **When**: Wednesday, January 17 at 7:00 -10:00 p.m.
 * **Where**: Redford Theatre\
   17360 Lahser Road\
   Detroit, MI 48219
