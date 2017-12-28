@@ -18,6 +18,7 @@ collections:
       - { label: "Banner", name: "banner", widget: "image" }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list", default: ["announcement"] }
+      - { label: "Type", name: "type", widget: "list", default: [""] }
   - name: "show"
     label: "Shows"
     folder: "content/show"
@@ -28,6 +29,7 @@ collections:
       - { label: "Banner", name: "banner", widget: "image" }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list", default: ["show"] }
+      - { label: "Type", name: "type", widget: "list", default: [""] }
   - name: "post"
     label: "Posts"
     folder: "content/post"
