@@ -2,7 +2,8 @@
 title: Shrek Auditions
 date: '2017-12-27T22:33:24.041Z'
 tags:
-  - announcement post
+  - announcement
+  - post
 banner: images/shrek-auditions.png
 ---
 <center>
