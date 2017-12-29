@@ -13,7 +13,7 @@ metaDataFormat = "toml"
     site_description = "Park Players Detroit"
     copyright  = "Copyright"
     avatar = "css/images/avatar.png"
-    logo = "/images/park-players-logo.png"
+    logo = "images/park-players-logo.png"
     disable_mathjax = true # set to true to disable MathJax
 
     # Format dates with Go's time formatting
