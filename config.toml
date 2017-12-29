@@ -37,7 +37,7 @@ metaDataFormat = "toml"
     weight = 11
 
 [[menu.main]]
-    name = "Posts"
+    name = "Cuelines"
     url = "/post/"
     weight = 12
 
