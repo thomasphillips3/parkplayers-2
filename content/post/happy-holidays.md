@@ -1,6 +1,6 @@
 ---
 title: Happy Holidays!
-date: 2018-01-01T01:00:50.889Z
+date: 2017-12-23T17:00:50-08:00
 banner: /images/happy holidays.jpg
 tags:
   - post
