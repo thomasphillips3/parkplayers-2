@@ -1,7 +1,7 @@
 ---
 title: Happy Holidays!
 date: 2017-12-24T01:00:50.000Z
-banner: /images/happy holidays.jpg
+banner: /images/happy holidays.png
 tags:
   - post
 type: post
