@@ -6,13 +6,8 @@ tags:
   - post
 type: post
 ---
-<center>
-
-# BEYOND THE FOOTLIGHTS: 
-## Angels in America
 <!--more-->
-<br>by Roger Loeb
-</center>
+by Roger Loeb
 
 The Park Players announce their fall show: _Angels in America_.  The New York production of this powerful drama won the Tony Award for Best Play, the Pulitzer Prize for Drama, and the Drama Desk Award for Outstanding Play.  Players will present part one - _Angels in America: Millennium Approaches_ which made its Broadway debut in 1993.  
 
