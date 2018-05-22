@@ -6,18 +6,21 @@ tags:
   - post
 type: post
 ---
-  BEYOND THE FOOTLIGHTS
-                              ANGELS IN AMERICA
+# BEYOND THE FOOTLIGHTS
 
-```
-                                 Roger Loeb
-```
+<center>
+<!--more-->
+
+## ANGELS IN AMERICA<br>by Roger Loeb
+
+</center>
 
 The Park Players announce their fall show: _Angels in America_.  The New York production of this powerful drama won the Tony Award for Best Play, the Pulitzer Prize for Drama, and the Drama Desk Award for Outstanding Play.  Players will present part one - _Angels in America: Millennium Approaches_ which made its Broadway debut in 1993.  
 
 <center>
 
 ![HBO's Angels in America](/images/angels-hbo.jpg)
+
 </center>
 
 In 2003, the play was adapted into an HBO miniseries staring Al Pacino and Meryl Streep.  The current 2018 Broadway revival has been nominated for 11 Tony awards - the most ever for a play.  _Angels in America_ is a symbolic examination of AIDS and homosexuality in America in the 1980's.  It follows fictional characters as well as some actual people such as Roy Cohn (attorney and mentor to the young Donald Trump) and Ethel Rosenberg (Communist spy).  There are Mormons, a nun and a rabbi, ghosts and angels, a homeless woman and an Eskimo.   There is a brief appearance from Aleksii Antedilluvianovich Prelaparianov, the World's Oldest Living Bolshevik.  
