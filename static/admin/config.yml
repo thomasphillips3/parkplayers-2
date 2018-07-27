@@ -15,10 +15,9 @@ collections:
     fields:
       - { label: "Title", name: "title" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Banner", name: "banner", widget: "image" }
+      - { label: "Banner", name: "banner", widget: "image", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list", default: ["announcement"] }
-      - { label: "Type", name: "type", widget: "string", default: "" }
   - name: "show"
     label: "Shows"
     folder: "content/show"
@@ -26,10 +25,9 @@ collections:
     fields:
       - { label: "Title", name: "title" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Banner", name: "banner", widget: "image" }
+      - { label: "Banner", name: "banner", widget: "image", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list", default: ["show"] }
-      - { label: "Type", name: "type", widget: "string", default: "" }
   - name: "post"
     label: "Posts"
     folder: "content/post"
@@ -37,7 +35,6 @@ collections:
     fields:
       - { label: "Title", name: "title" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Banner", name: "banner", widget: "image" }
+      - { label: "Banner", name: "banner", widget: "image", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
-      - { label: "Type", name: "type", widget: "string", default: "post" }
