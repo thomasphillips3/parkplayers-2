@@ -3,6 +3,8 @@ title: Players in the News
 date: '2018-07-26T23:08:46-07:00'
 tags:
   - post
+  - cuelines
+  - cuelines-summer-2018
 ---
 # Players in the News
 
