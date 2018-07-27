@@ -6,8 +6,9 @@ noprevnext: true
 disable_comments: true
 
 ---
+# Cuelines
+Cuelines is our occasional email newsletter. Shoot us an email to join.
 
-# You may contact me through the nearest wormhole
-
-This is where my great contact goes
-
+# Park Players
+17360 Lahser Road  
+Detroit, MI 48219
