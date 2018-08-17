@@ -9,7 +9,7 @@ publish_mode: editorial_workflow
 
 collections:
   - name: "announcement"
-    label: "Announcements"
+    label: "Announcement"
     folder: "content/announcement"
     create: true
     fields:
@@ -19,7 +19,7 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list", default: ["announcement"] }
   - name: "show"
-    label: "Shows"
+    label: "Show"
     folder: "content/show"
     create: true
     fields:
@@ -29,7 +29,7 @@ collections:
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list", default: ["show"] }
   - name: "post"
-    label: "Posts"
+    label: "Post"
     folder: "content/post"
     create: true
     fields:
