@@ -4,9 +4,9 @@ date: '2018-05-21T18:41:22-07:00'
 banner: /images/footlights.jpg
 tags:
   - post
-type: post
 ---
 <!--more-->
+
 by Roger Loeb
 
 The Park Players announce their fall show: _Angels in America_.  The New York production of this powerful drama won the Tony Award for Best Play, the Pulitzer Prize for Drama, and the Drama Desk Award for Outstanding Play.  Players will present part one - _Angels in America: Millennium Approaches_ which made its Broadway debut in 1993.  
@@ -21,4 +21,4 @@ In 2003, the play was adapted into an HBO miniseries staring Al Pacino and Meryl
 
 Ben Brantley, reviewing the revival for the New York Times wrote: "Sometimes, just when you need it most, a play courses into your system like a transfusion of new blood.  You feel freshly awakened to the infinite possibilities not only of theater but also of the teeming world beyond.  And when you hit the streets afterward, every one of your senses is singing.  Such is the effect of seeing the flat-out fabulous revival of Tony Kushner's _Angels in America_." 
 
-Auditions for this many-charactered production will be held at the Redford Theatre on Lahser at Grand River on Wednesday, August 23 from 7-10 pm and Sunday, Aug. 26 from 1-5 pm. Rehearsals are typically on Tuesday and Thursday evenings, and Sunday afternoons.  The performances will be on two weekends between November 9 and 18.  Whether you have a great deal of theater background or have never ventured on to a stage, perhaps this fall is your time.  There are numerous roles both large and small.  For additional information, contact Archie.lynch2@gmail.com.  Otherwise, please join us at the theater in November.
+Auditions for this many-charactered production will be held at the Redford Theatre on Lahser at Grand River on  August 23 from 7-10 pm and Sunday, Aug. 26 from 1-5 pm. Rehearsals are typically on Tuesday and Thursday evenings, and Sunday afternoons.  The performances will be on two weekends between November 9 and 18.  Whether you have a great deal of theater background or have never ventured on to a stage, perhaps this fall is your time.  There are numerous roles both large and small.  For additional information, contact Archie.lynch2@gmail.com.  Otherwise, please join us at the theater in November.
