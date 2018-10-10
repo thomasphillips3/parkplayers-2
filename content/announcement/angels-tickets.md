@@ -4,6 +4,14 @@ date: '2018-10-10T12:56:02-07:00'
 tags:
   - announcement
 ---
+<!--
+START OF VENDINI TAG
+Copyright (C) 2018 Vendini, Inc.
+     All Rights Reserved.
+
+TROUBLESHOOTING: The HTML code below is one continuous line.  Line breaks in the code below may cause problems launching the order window.
+-->
+
 <script type="text/javascript" id="vendiniTicketLineLaunch_7e660ec428b37659f55ccb0ec74ae932">
 var VendiniTicketLineLaunch = VendiniTicketLineLaunch || {};
 VendiniTicketLineLaunch['b364e9f86fbe38f65a0498a0a039ce7e'] = VendiniTicketLineLaunch['b364e9f86fbe38f65a0498a0a039ce7e'] || [];
@@ -19,4 +27,5 @@ VendiniTicketLineLaunch['b364e9f86fbe38f65a0498a0a039ce7e'] = VendiniTicketLineL
 		buttonContainer.appendChild(script);
 	}
 })();
+
 </script>
