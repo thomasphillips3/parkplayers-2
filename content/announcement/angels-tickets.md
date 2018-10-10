@@ -27,5 +27,7 @@ VendiniTicketLineLaunch['b364e9f86fbe38f65a0498a0a039ce7e'] = VendiniTicketLineL
 		buttonContainer.appendChild(script);
 	}
 })();
-
+\n
 </script>
+
+<!-- END OF VENDINI TAG -->
