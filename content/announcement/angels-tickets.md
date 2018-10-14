@@ -4,7 +4,7 @@ date: '2018-10-10T12:56:02-07:00'
 tags:
   - announcement
   - tickets
-type: announcement
+type: post
 banner: 'images/angels silhouette.png'
 ---
 
