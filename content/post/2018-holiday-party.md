@@ -15,7 +15,7 @@ We will have
 
 ![Redford Theatre Variety Show](/images/variety.jpeg)
 
-* an opportunity to meet one of the co-directors for our upcoming production of _The Odd Couple_ prior to auditions
+* an opportunity to meet one of the co-directors for our upcoming production of _The Odd Couple_ prior to auditions (details will be available at [parkplayers.org](www.parkplayers.org) soon!)
 * the announcement of the 2019 Board of Directors
 * tasty treats and the chance to meet and catch up with your fellow Park Players!
 
