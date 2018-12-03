@@ -1,6 +1,6 @@
 ---
 title: 2018 Holiday Party
-date: '2018-12-02T17:29:00-08:00'
+date: '2018-12-02T23:29:00-08:00'
 banner: /images/2018-holiday-party.jpeg
 tags:
   - cuelines
