@@ -1,7 +1,7 @@
 ---
 title: 'The Odd Couple Auditions '
 date: '2018-12-01T18:26:00-05:00'
-banner: /images/webp.net-resizeimage-2-.jpg
+banner: /images/img_1493.jpg
 tags:
   - auditions odd couple announcement
 ---
@@ -58,4 +58,4 @@ AUDITION SIDES can be found at the following dropbox link:
 
 <https://www.dropbox.com/sh/mtcwf73wdyv6w57/AABoDwt-ouuxRdlDZ7t0MbTLa?dl=0>
 
-For more information, email katyshoetzow@gmail.com
+For more information, email katyschoetzow@gmail.com
