@@ -6,7 +6,9 @@ tags:
   - cuelines
   - December 2018 Cuelines
 ---
-Join us for our annual year-end gathering! Family and friends are welcome! <!-- more -->
+Join us for our annual year-end gathering! Family and friends are welcome! 
+
+<!-- more -->
 
 We will have 
 
