@@ -3,7 +3,8 @@ title: 2018 Holiday Party
 date: '2018-12-02T19:29:03-08:00'
 banner: /images/2018-holiday-party.jpeg
 tags:
-  - post
+  - cuelines
+  - December 2018 Cuelines
 ---
 Join us for our annual year-end gathering! Family and friends are welcome!
 
