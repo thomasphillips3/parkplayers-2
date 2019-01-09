@@ -1,9 +1,12 @@
 ---
 title: 'The Odd Couple Auditions '
-date: '2018-12-01T18:26:00-05:00'
+date: '2018-12-31T18:26:00-05:00'
 banner: /images/img_1493.jpg
 tags:
-  - auditions odd couple announcement
+  - auditions 
+  - odd couple 
+  - announcement
+type: post
 ---
 The Park Players' Production of The Odd Couple by Neil Simon
 
