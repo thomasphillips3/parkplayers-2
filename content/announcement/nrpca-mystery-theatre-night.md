@@ -1,5 +1,5 @@
 ---
-title: NRPCA Mystery Theatre Night!
+title: 'Friends of Players: NRPCA Mystery Theatre Night!'
 date: '2019-01-18T11:24:08-08:00'
 banner: /images/of-sound-mind-and-dead-body-24x36-2-.png
 tags:
