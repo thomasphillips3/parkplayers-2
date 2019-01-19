@@ -7,8 +7,6 @@ tags:
 ---
 # Mystery Theater: Of Sound Mind & Dead Body: Magic, Mystery & Murder
 
-![Mystery Theater flier]()
-
 When a magical mishap leaves a million dollar inheritance up for grabs, the next trick will be figuring out who the lucky winner is, and who will end up behind bars for malicious magical mayhem! This is an abracadabra disaster, and it’s up to you to find the murderer before they vanish into thin air. Spend the evening glimpsing through the smoke and mirrors to uncover which hocus pocus hitman offed the poor fellow, and stop them before this goes down as the most dangerous magic trick in history.
 
 Gather information, trade clues with your guests, and solve the crime before the murderous magician gets away!  Use all your best tricks to get info and clues to solve the crime so the show can go on!
