@@ -20,8 +20,8 @@ Female Version Performance Dates:
 
 * March 23 @ 2pm
 * March 24 @ 2pm
+* March 29 @ 8pm
 * March 30 @ 8pm
-* March 31 @ 8pm
 
 Tickets are $15 when purchased online and $20 at the door! 
 
